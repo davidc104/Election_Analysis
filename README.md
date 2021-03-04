@@ -10,3 +10,5 @@
 3. Election-Audit Summary
     - County list can be changed to any towns or cities.
     - County vote dictionary can be changed to any candidate names.
+
+    ![alt text](https://github.com/shuyaof/Election_Analysis/blob/main/Election_Analysis.JPG "Election_Analysis.JPG")
